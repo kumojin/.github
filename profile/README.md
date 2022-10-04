@@ -54,7 +54,7 @@ CEO and co-founder
 
 Microsoft Azure MVP / Docker Captain / Docker Community Leader - Québec City
 
-+15 years of devOps and leadership experience
++15 years of DevOps and leadership experience
 
 LinkedIn: [https://www.linkedin.com/in/jmaitrehenry](https://www.linkedin.com/in/lukaszkokot)
 

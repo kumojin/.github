@@ -35,12 +35,12 @@ OUR TECHNOLOGY & METHODOLOGIES
 We have excellent knowledge in the following languages, cloud computing platforms and programming
 frameworks:
 
-- Java / Ruby - C# / Python / Kotlin / Golang - nodeJS - Javascript / Typescript - HTML
-- Angular / React /VueJs – Spring - ExpressJS
-- Github Actions, Azure DevOps, CircleCI, Gitlab
-- Docker / kubernetes – Terraform - Ansible
-- Azure / AWS / Google Cloud Platform – Digital Ocean
-- MySQL – Postgres – Mongodb - Redis - Couchbase - ElasticSearch
+- Java / Ruby / C# / Python / Kotlin / Go / Node.js / JavaScript / TypeScript / HTML
+- Angular / React / Vue.js / Spring / Express.js / NestJS
+- GitHub Actions / Azure DevOps / CircleCI / GitLab
+- Docker / Kubernetes / Terraform / Ansible
+- Azure / AWS / Google Cloud Platform / Digital Ocean
+- MySQL / PostgreSQL / MongoDB / Redis / Couchbase / ElasticSearch
 
 LinkedIn: [https://gq.linkedin.com/company/kumojin](https://gq.linkedin.com/company/kumojin)
 

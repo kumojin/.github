@@ -19,11 +19,12 @@ varied projects. But above all, they are the people with whom we forge strong an
 relationships and with whom we are building our future.
 
 OUR MAIN SERVICES ARE:
+
 - Product development from A to Z
 - Co-development and support
-- Cloud native software development 
+- Cloud native software development
 - Implementation and migration to a cloud computing platform
-- Implementation of good development practices and DevOps philosophy 
+- Implementation of good development practices and DevOps philosophy
 
 Above all, we aim for excellence and high quality!
 
@@ -31,21 +32,23 @@ We guarantee the development, integration and deployment of all projects that ar
 while seeking to optimize the delivery and the budget of our customers.
 
 OUR TECHNOLOGY & METHODOLOGIES
-We have excellent knowledge in the following languages, cloud computing platforms and programming 
+We have excellent knowledge in the following languages, cloud computing platforms and programming
 frameworks:
-- Java  / Ruby - C# / Python / Kotlin / Golang - nodeJS - Javascript / Typescript - HTML
-- Angular / React /VueJs – Spring - ExpressJS
-- Github Actions, Azure DevOps, CircleCI, Gitlab
-- Docker / kubernetes – Terraform - Ansible
-- Azure / AWS / Google Cloud Platform – Digital Ocean
--	MySQL – Postgres – Mongodb - Redis - Couchbase - ElasticSearch
+
+- Java / Ruby / C# / Python / Kotlin / Go / Node.js / JavaScript / TypeScript / HTML
+- Angular / React / Vue.js / Spring / Express.js / NestJS
+- GitHub Actions / Azure DevOps / CircleCI / GitLab
+- Docker / Kubernetes / Terraform / Ansible
+- Azure / AWS / Google Cloud Platform / Digital Ocean
+- MySQL / PostgreSQL / MongoDB / Redis / Couchbase / ElasticSearch
 
 LinkedIn: [https://gq.linkedin.com/company/kumojin](https://gq.linkedin.com/company/kumojin)
 
 ### The people
 
 #### Julien Maitrehenry
-<img src="https://avatars.githubusercontent.com/u/593562?v=4" width="128" style="border-radius: 4px" />
+
+<img src="https://avatars.githubusercontent.com/u/593562?v=4" width="128" alt="Picture of Julien Maitrehenry, CEO and co-founder of Kumojin" />
 
 CEO and co-founder
 
@@ -57,9 +60,9 @@ LinkedIn: [https://www.linkedin.com/in/jmaitrehenry](https://www.linkedin.com/in
 
 Github: [https://github.com/jmaitrehenry](https://github.com/jmaitrehenry)
 
-
 #### Lukasz Kokot
-<img src="https://media-exp2.licdn.com/dms/image/C4D03AQH9_uMF0MHyuA/profile-displayphoto-shrink_800_800/0/1535312033801?e=1660176000&v=beta&t=9T3Qe9PgZvWArTERvgN6CGeuECEsAH655BCmAZKuL1E" width="128" />
+
+<img src="https://avatars.githubusercontent.com/u/16050894?v=4" width="128" alt="Picture of Lukasz Kokot, CTO and co-founder of Kumojin" />
 
 CTO and co-founder
 

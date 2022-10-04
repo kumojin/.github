@@ -52,9 +52,9 @@ LinkedIn: [https://gq.linkedin.com/company/kumojin](https://gq.linkedin.com/comp
 
 CEO and co-founder
 
-Microsoft Azure MVP / Docker Community Leader - Québec City
+Microsoft Azure MVP / Docker Captain / Docker Community Leader - Québec City
 
-+12 years of dev/ops and leadership experience
++15 years of DevOps and leadership experience
 
 LinkedIn: [https://www.linkedin.com/in/jmaitrehenry](https://www.linkedin.com/in/lukaszkokot)
 

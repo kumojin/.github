@@ -46,20 +46,6 @@ LinkedIn: [https://gq.linkedin.com/company/kumojin](https://gq.linkedin.com/comp
 
 ### The people
 
-#### Julien Maitrehenry
-
-<img src="https://avatars.githubusercontent.com/u/593562?v=4" width="128" alt="Picture of Julien Maitrehenry, CEO and co-founder of Kumojin" />
-
-CEO and co-founder
-
-Microsoft Azure MVP / Docker Captain / Docker Community Leader - Québec City
-
-+15 years of DevOps and leadership experience
-
-LinkedIn: [https://www.linkedin.com/in/jmaitrehenry](https://www.linkedin.com/in/lukaszkokot)
-
-Github: [https://github.com/jmaitrehenry](https://github.com/jmaitrehenry)
-
 #### Lukasz Kokot
 
 <img src="https://avatars.githubusercontent.com/u/16050894?v=4" width="128" alt="Picture of Lukasz Kokot, CTO and co-founder of Kumojin" />

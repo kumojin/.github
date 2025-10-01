@@ -50,7 +50,7 @@ LinkedIn: [https://gq.linkedin.com/company/kumojin](https://gq.linkedin.com/comp
 
 <img src="https://avatars.githubusercontent.com/u/16050894?v=4" width="128" alt="Picture of Lukasz Kokot, CTO and co-founder of Kumojin" />
 
-CTO and co-founder
+CTO and Founder
 
 +20 years of dev and leadership experience
 

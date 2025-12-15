@@ -4,17 +4,17 @@
 
 ### We build your solutions, we work for your peace of mind
 
-Kumojin helps companies to develop, integrate and deploy digital applications optimally thanks to the
+Kumojin helps companies develop, integrate, and deploy digital applications optimally thanks to the
 expertise of a team of full-stack developers.
 
 Our product and service experience combined with full-stack and DevOps development expertise enables us
-to help businesses build, integrate and deploy cloud applications optimally and efficiently by following
+to help businesses build, integrate, and deploy cloud applications optimally and efficiently by following
 industry best practices.
 
 Thanks to our tailor-made approach, we offer great flexibility and support companies in achieving
 ambitious technological and business goals.
 
-From San-Francisco to Paris via Quebec, our clients are start-ups or multinationals with diverse and
+From San Francisco to Paris via Québec, our clients are startups or multinationals with diverse and
 varied projects. But above all, they are the people with whom we forge strong and lasting business
 relationships and with whom we are building our future.
 
@@ -22,25 +22,26 @@ OUR MAIN SERVICES ARE:
 
 - Product development from A to Z
 - Co-development and support
-- Cloud native software development
+- Cloud-native software development
 - Implementation and migration to a cloud computing platform
 - Implementation of good development practices and DevOps philosophy
 
 Above all, we aim for excellence and high quality!
 
-We guarantee the development, integration and deployment of all projects that are entrusted to us,
-while seeking to optimize the delivery and the budget of our customers.
+We guarantee the development, integration, and deployment of all projects that are entrusted to us 
+while seeking to optimize the delivery and budget of our customers.
 
 OUR TECHNOLOGY & METHODOLOGIES
-We have excellent knowledge in the following languages, cloud computing platforms and programming
+
+We have excellent knowledge in the following languages, cloud computing platforms, and programming
 frameworks:
 
 - Java / Ruby / C# / Python / Kotlin / Go / Node.js / JavaScript / TypeScript / HTML
 - Angular / React / Vue.js / Spring / Express.js / NestJS
 - GitHub Actions / Azure DevOps / CircleCI / GitLab
 - Docker / Kubernetes / Terraform / Ansible
-- Azure / AWS / Google Cloud Platform / Digital Ocean
-- MySQL / PostgreSQL / MongoDB / Redis / Couchbase / ElasticSearch
+- Azure / AWS / Google Cloud Platform / DigitalOcean
+- MySQL / PostgreSQL / MongoDB / Redis / Couchbase / Elasticsearch
 
 LinkedIn: [https://gq.linkedin.com/company/kumojin](https://gq.linkedin.com/company/kumojin)
 
@@ -52,8 +53,8 @@ LinkedIn: [https://gq.linkedin.com/company/kumojin](https://gq.linkedin.com/comp
 
 CTO and Founder
 
-+20 years of dev and leadership experience
+20+ years of dev and leadership experience
 
-LinkedIn: [https://www.linkedin.com/in/lukaszkokot](https://www.linkedin.com/in/lukasz-kokot/)
+LinkedIn: [https://www.linkedin.com/in/lukasz-kokot/](https://www.linkedin.com/in/lukasz-kokot/)
 
-Github: [https://github.com/LukaszKokot](https://github.com/LukaszKokot)
+GitHub: [https://github.com/LukaszKokot](https://github.com/LukaszKokot)
